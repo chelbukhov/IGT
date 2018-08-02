@@ -1,0 +1,9 @@
+MainNet
+Транзакция создания контракта
+https://etherscan.io/tx/0x5f2dc3dee8311dbe6df7f7e945ee51f3d030e7866e33451878a3c402a1a9a780
+
+Контракт краудсейла
+https://etherscan.io/address/0x56f57384492c0f3d746199fac7e5b848363f9148
+
+Контракт токена
+https://etherscan.io/token/0x9998db897783603c9344ed2678ab1b5d73d0f7c3
