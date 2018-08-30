@@ -1,9 +1,18 @@
 MainNet
-Транзакция создания контракта
+transaction init contract
 https://etherscan.io/tx/0x5f2dc3dee8311dbe6df7f7e945ee51f3d030e7866e33451878a3c402a1a9a780
 
-Контракт краудсейла
+crowdsale contract
 https://etherscan.io/address/0x56f57384492c0f3d746199fac7e5b848363f9148
 
-Контракт токена
+token contract
 https://etherscan.io/token/0x9998db897783603c9344ed2678ab1b5d73d0f7c3
+
+wings-bridge transaction
+https://www.etherscan.io/tx/0xdcdae4c2a60689131375da5cfcd086233d647cacb8ae32da23ef7c942414cdb3
+
+wings-bridge contract
+https://etherscan.io/address/0xc7c79f7d8b02c5a573e7bfde8e392bc532eabe99
+
+wings-project
+https://www.wings.ai/project/0x3652898de882c2931b5e2150cad26e9fa1991e92
